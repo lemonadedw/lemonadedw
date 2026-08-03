@@ -1,5 +1,17 @@
-brown '28 / apma-cs & music
+brown university '28 / apma-cs & music
 
-i write music, and i write code that reads/writes music.
+i make music, and my code makes music too
 
-[henrywang.music](url)
+i guess humans are not that different from machines then
+
+[website](https://henrywang.music) / [bilibili](https://space.bilibili.com/226288130/) / [youtube](https://www.youtube.com/@henrywmusic)
+
+currently working on ai-augmented live improvisation
+
+---
+
+##### music
+composition · improvisation · music theory · piano
+ 
+##### tech
+`python` `c++` `typescript` `max/msp`
