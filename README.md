@@ -1,5 +1,5 @@
 brown '28 / apma-cs & music
 
-i create some music
+i write music, and i write code that reads/writes music.
 
-sometimes i code
+[henrywang.music](url)
