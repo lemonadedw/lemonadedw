@@ -6,7 +6,7 @@ i guess humans are not that different from machines then
 
 [website](https://henrywang.music) / [bilibili](https://space.bilibili.com/226288130/) / [youtube](https://www.youtube.com/@henrywmusic)
 
-currently working on ai-augmented live improvisation
+currently working on music llm interpretability
 
 ---
 
